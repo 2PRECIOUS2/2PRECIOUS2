@@ -1,7 +1,8 @@
 # Hi, I'm Ntokozo Kubone 👋
 
 🎓 Student at the University of the Witwatersrand  
-💻 Passionate about web development and AI  
+💻 I am passionate about problem-solving, with interests in
+    cybersecurity, software development, and cloud computing.
 🚀 Always learning, always coding
 
 ---
