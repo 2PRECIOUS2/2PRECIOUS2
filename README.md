@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ntokozo Kubone 👋
 
-<!--
-**2PRECIOUS2/2PRECIOUS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at the University of the Witwatersrand  
+💻 Passionate about web development and AI  
+🚀 Always learning, always coding
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ntokozo-kubone-322419286/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram&style=for-the-badge)](https://www.instagram.com/its.ntokozo07/)
+
